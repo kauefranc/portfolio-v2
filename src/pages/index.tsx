@@ -19,7 +19,7 @@ export default function Home() {
               </p>
           </div>
           <div className={styles.imgWrapper}>
-              <img src="/images/eusp.png" alt=""/>
+              <img src="/images/eusp.png" alt="Eu"/>
           </div>
       </section>
 
