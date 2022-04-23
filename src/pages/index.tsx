@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { Projetos } from '../components/Projetos'
 import styles from './home.module.scss'
 
 export default function Home() {
@@ -66,6 +67,7 @@ export default function Home() {
           </div>
       </section>
 
+      <Projetos/>
 
       
     </>
