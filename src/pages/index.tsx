@@ -31,7 +31,7 @@ export default function Home() {
                   <blockquote>
                     Meu nome é Kauê França Cavalcante, nasci em 2001 no Brasil, 
                     mais precisamente em Manaus. Sou cristão, meu passatempo preferido é jogar futebol 
-                    e minha comida favorita é churrasco com uma coquinha bem gelada.
+                    e a comida favorita é churrasco com uma coquinha bem gelada.
                     <div className={styles.arrowSobreMim}></div>  
                   </blockquote>  
                   <img src="/images/eupadrao.jpg" alt="Eu" />  
@@ -43,7 +43,7 @@ export default function Home() {
               <figure className={styles.cardSobreMim}>  
                   <blockquote>
                     Sou formado (2019) em Técnico em Informática pela <a target="_blank" href="https://www.fundacaomatiasmachline.org.br">FMM</a> onde conheci a programação e fiquei encantado.
-                    Cursei Análise e Desenvolvimento de Sistema na <a target="_blank" href='https://www.wyden.com.br/fmf'>Faculdade Martha Falcão</a> e me formei em 2023. Nessa Jornada me encontrei no Desenvolvimento Frontend.
+                    Cursei Análise e Desenvolvimento de Sistema na <a target="_blank" href='https://www.wyden.com.br/fmf'>Faculdade Martha Falcão</a> e me formei em 2023. Nessa Jornada, me encontrei no Desenvolvimento Frontend.
                     <div className={styles.arrowSobreMim}></div>  
                   </blockquote>  
                   <img src="/images/eumamae.jpg" alt="eu e minha mãe" />  
@@ -66,6 +66,8 @@ export default function Home() {
           </div>
       </section>
 
+
+      
     </>
 
 

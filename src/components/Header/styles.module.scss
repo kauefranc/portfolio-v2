@@ -16,6 +16,10 @@
         margin-left: 5rem;
         height: 5rem;
 
+        @media (max-width: 800px){
+            display: none;
+        }
+
         a{  
 
             & + a {
@@ -56,6 +60,9 @@
     }
 
     button {
+        @media (max-width: 800px){
+            display: none;
+        }
         margin-left: auto;
     }
 }
